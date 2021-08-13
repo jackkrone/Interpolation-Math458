@@ -7,3 +7,6 @@ This is a project I completed in Numerical Methods (MATH 458) at USC. The task w
 Start by downloading the writeup and skimming the overview of my work. On page 2 is a shot of each form of interpolation I used. The writeup states that by double-clicking on the image the viewer can view the animation. This no longer works as expected in this git repo, so I included the video files in the repo. Unfortunately I lost the original animation using linear spline interpolation, and no longer have access to a MATLAB license. I rendered the animation using Octave instead, and have included a screen recording of it in the repo. Note that this animation plays much slower than the other two.
 
 All of the code I used to create these animation is included in the .m files.
+
+An example animation:
+https://user-images.githubusercontent.com/37680054/129306504-26f31920-b379-429d-955f-0bcc3b9f8136.mp4
